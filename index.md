@@ -4,5 +4,7 @@
 
 #### this is h4
 
+#### ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 In this part, I changed the index.md by adding headers
